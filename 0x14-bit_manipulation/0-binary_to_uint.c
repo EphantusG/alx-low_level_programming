@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * binary_to_uint.c - convert base 2 to unsigned int
- * @b ; str with bin number
+ * @d ; str with bin number
  * Return : converted number
  */
 
